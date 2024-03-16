@@ -34,14 +34,28 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
 
 
+
 ### Day 4: March 15,2024
 
-**Today's Progress**: Started CSS Foundations and completed all Intro to CSS exercises assignment.
+**Today's Progress**: Delved deeper into using Git, getting familiar with cloning repositories and using the Bash terminal more often. Completed the HTML section for The Odin Project and first 5 Foundations exercises.
+
+**Thoughts**: Using Bash instead of the UI to move folders and files has been good practice for me. I was already familair with HTML beforehand so I breezed through that section in Foundations.
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-git-basics)
+(https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
+
+
+
+### Day 5: March 16,2024
+
+**Today's Progress**: Completed The Cascade, learned Chrome DevTools basics and solved the final Foundations exercise.
 
 **Thoughts**: The assignments were easy to do once I've read the README.md and looked at the desired results, had no trouble getting it done without the solutions.
 
 **Link(s) to work**: 
-(https://www.theodinproject.com/lessons/foundations-intro-to-css)
+(https://developer.chrome.com/docs/devtools/overview)
+(https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
 
 
 
