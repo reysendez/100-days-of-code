@@ -58,5 +58,13 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
 
 
+### Day 6: March 17,2024
 
+**Today's Progress**: Completed Block and Inline module on TOP, halfway through the learn accessibility quiz project on FCC and updated odin-recipes project with cleaner navigation and button links on all individual recipe pages.
+
+**Thoughts**: I'm having some trouble with centering objects on a page but I think using divs around content that I want to center using margin seems to be the best method. I'm also getting used to specifying selectors to make sure some properties don't conflict with what I want. Accessibiity is a big priority of mine so I'm taking my time getting through the quiz project I'm building because I want to understand it better.
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-block-and-inline)
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-1)
 
