@@ -68,3 +68,14 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://www.theodinproject.com/lessons/foundations-block-and-inline)
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-1)
 
+### Day 7: March 18,2024
+
+**Today's Progress**: Completed Learn Accessibility quiz project on FCC and learned CSS Flexbox properties on TOP, read documentation on flex, justify-content and align-items.
+
+**Thoughts**: Flexbox is quite a learning curve but I definitely understood after read MDN docs and watching Kevin Powell's YouTube video on Flexbox model. With some practice, I know I'll understand the ins and outs.
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
+(https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-68)
+(https://www.youtube.com/watch?v=u044iM9xsWU)
