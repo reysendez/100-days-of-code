@@ -79,3 +79,26 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-68)
 (https://www.youtube.com/watch?v=u044iM9xsWU)
+
+### Day 8: March 19,2024
+
+**Today's Progress**: Read Alignments module on TOP and started Learn HTML course on Codeacademy.
+
+**Thoughts**: Lots of reading on Flexbox, I definitely understand align-items and justify-content more with the interactive tutorials but flex shorthand properties, main-axis and cross-axis are still taking some time to sink in my brain.
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-alignment)
+(https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+(https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/)
+(https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+### Day 10: March 20,2024
+
+**Today's Progress**: Completed css-exercises from TOP.
+
+**Thoughts**: Flexbox exercises were simple in the beginning  but I started to struggled with exercises 5-7, had to get some hints from the solutions folder to help me along. I'm definitely going to have to go back and re-read the documentation and take physical notes on difficult web development concepts.
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
+(https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-68)
+(https://github.com/TheOdinProject/css-exercises)
