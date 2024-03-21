@@ -93,12 +93,23 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 ### Day 10: March 20,2024
 
-**Today's Progress**: Completed css-exercises from TOP.
+**Today's Progress**: Completed flex folder in css-exercises from TOP.
 
 **Thoughts**: Flexbox exercises were simple in the beginning  but I started to struggled with exercises 5-7, had to get some hints from the solutions folder to help me along. I'm definitely going to have to go back and re-read the documentation and take physical notes on difficult web development concepts.
 
 **Link(s) to work**: 
 (https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
 (https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
-(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-68)
+(https://www.theodinproject.com/lessons/foundations-alignment)
+(https://github.com/TheOdinProject/css-exercises)
+
+### Day 11: March 21,2024
+
+**Today's Progress**: Completed flex fold in css-exercises a second time and completed all 24 levels of Flexbox Froggy.
+
+**Thoughts**: Doing the exercises again, I had an easier time doing them once I re-read all the assigned readings and some supplemental resources on TOP. I only peeked at the solutions for 1 exercise but that's a big step for me! I also tapped into the Flexbox Froggy game to enrich my understanding of Flexbox, I'm a little more confident now to take on the Flexbox project tomorrow.
+
+**Link(s) to work**: 
+(https://flexboxfroggy.com/)
+(https://www.theodinproject.com/lessons/foundations-axes)
 (https://github.com/TheOdinProject/css-exercises)
