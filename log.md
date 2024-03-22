@@ -113,3 +113,12 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://flexboxfroggy.com/)
 (https://www.theodinproject.com/lessons/foundations-axes)
 (https://github.com/TheOdinProject/css-exercises)
+
+### Day 12: March 22,2024
+
+**Today's Progress**: Completed the Landing Page project on TOP using CSS Flexbox.
+
+**Thoughts**: I struggled a little getting things to sit right once I started incorporating Flexbox. I had no issues visualing the desired outcome into containers and boxes, starting with only writing the HTML structure of the layout and then working from the header all the way down to the footer helped so much. I have to tackle this project (and future ones!) one container at a time and I think I will fare just fine!
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-landing-page)
