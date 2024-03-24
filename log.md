@@ -122,3 +122,26 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 **Link(s) to work**: 
 (https://www.theodinproject.com/lessons/foundations-landing-page)
+
+### Day 13: March 23,2024
+
+**Today's Progress**: Uploaded and deployed the Landing Page project to Github, moved on to learning Javascript basics.
+
+**Thoughts**: I was super proud of myself for getting that project done from scratch. Now I am learning basic Javascript, which is a quite a refresher as I took a course on it on Codecademy. I remember quite a few things but not the syntax but my memory is coming back.
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-landing-page)
+(https://www.theodinproject.com/lessons/foundations-variables-and-operators/)
+
+### Day 14: March 24,2024
+
+**Today's Progress**: Finished the Variables and Operators module on TOP.
+
+**Thoughts**: As I mentioned yesterday, I remember some of this from a course I took on Codecademy even though I never finished. I learned how to put a script inside the <body> tag element on a HTML file and how to operate the console when I open the Live Server. Most of today has been reading different documentation and doing little exercises to reinforce what I learned. Lots of potential with using Javascript to further enhance my websites now that I have HTML and CSS Flexbox in my toolkit.
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-variables-and-operators/)
+(https://www.w3schools.com/js/js_arithmetic.asp)
+(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
+(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+(http://javascript.info/operators)
