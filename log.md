@@ -145,3 +145,16 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
 (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 (http://javascript.info/operators)
+
+### Day 15: March 25,2024
+
+**Today's Progress**: Made my way halfway through Data Types and Conditionals on TOP.
+
+**Thoughts**: Lots of reading to get through again, did a little experimentation along with the tutorials but not much coding involved yet. Will be doing the Replit exercises tomorrow!
+
+**Link(s) to work**: 
+(https://www.w3schools.com/js/js_if_else.asp)
+(https://javascript.info/comparison)
+(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
+(https://www.w3schools.com/js/js_string_methods.asp)
+(https://javascript.info/logical-operators)
