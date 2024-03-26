@@ -158,3 +158,17 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
 (https://www.w3schools.com/js/js_string_methods.asp)
 (https://javascript.info/logical-operators)
+
+### Day 15: March 25,2024
+
+**Today's Progress**: Completed Data Types and Conditionals module on TOP, finished all 4 Replit exercises.
+
+**Thoughts**: Exercises were easy to do, the module was very reading intensive with all the Javascript resources given.
+
+**Link(s) to work**: 
+(https://javascript.info/switch)
+(https://javascript.info/ifelse)
+(https://replit.com/@OdinProject/troubleshooting#troubleshooting.js)
+(https://replit.com/@OdinProject/enter-a-number#script.js)
+(https://replit.com/@OdinProject/lets-do-some-math#math.js)
+(https://replit.com/@info1220/direction-follow)
