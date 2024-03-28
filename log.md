@@ -159,7 +159,7 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://www.w3schools.com/js/js_string_methods.asp)
 (https://javascript.info/logical-operators)
 
-### Day 15: March 25,2024
+### Day 16: March 26,2024
 
 **Today's Progress**: Completed Data Types and Conditionals module on TOP, finished all 4 Replit exercises.
 
@@ -172,3 +172,15 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://replit.com/@OdinProject/enter-a-number#script.js)
 (https://replit.com/@OdinProject/lets-do-some-math#math.js)
 (https://replit.com/@info1220/direction-follow)
+
+### Day 17: March 27,2024
+
+**Today's Progress**: Finished the Javascript Developer Tools module on TOP.
+
+**Thoughts**: Since I am back at work, progress on learning has been getting slower. While I did read the resources and followed along with some of the tutorials, I somehow had a hard time recreating the debugging tutorial Chrome DevTools had. Huh. I guess I'll have to go back and try again tomorrow just to make sure I didn't miss anything about it before moving forward to learn more about Javascript.
+
+**Link(s) to work**: 
+(https://developer.chrome.com/docs/devtools/javascript/)
+(https://developer.chrome.com/docs/devtools/device-mode/)
+(https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
+(https://developer.chrome.com/docs/devtools/css/reference/)
