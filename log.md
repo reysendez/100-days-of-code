@@ -184,3 +184,12 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://developer.chrome.com/docs/devtools/device-mode/)
 (https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
 (https://developer.chrome.com/docs/devtools/css/reference/)
+
+### Day 18: March 31,2024
+
+**Today's Progress**: Started CSS Pseudo Selectors project on FreeCodeCamp.
+
+**Thoughts**: Missed 3 days of this 100 Days of Code challenge. Work has been draining me like crazy, definitely going to have to use the downtime to get this challenge going still.
+
+**Link(s) to work**: 
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet/step-1)
