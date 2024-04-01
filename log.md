@@ -193,3 +193,16 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 **Link(s) to work**: 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet/step-1)
+
+### Day 19: April 1st,2024
+
+**Today's Progress**: Completed Function Basics module on TOP.
+
+**Thoughts**: I'm understanding the function syntax for Javascript but I need to go ahead and try to save documentation for many Javascript methods that will come in handy when I start writing functions for different tasks.
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-function-basics)
+(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values)
+(http://javascript.info/function-expressions)
+(http://javascript.info/arrow-functions-basics)
+(https://www.javascripttutorial.net/javascript-call-stack/)
