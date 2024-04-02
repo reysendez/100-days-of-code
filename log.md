@@ -206,3 +206,15 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (http://javascript.info/function-expressions)
 (http://javascript.info/arrow-functions-basics)
 (https://www.javascripttutorial.net/javascript-call-stack/)
+
+### Day 20: April 2nd,2024
+
+**Today's Progress**: Completed Problem Solving module on TOP.
+
+**Thoughts**: These assignment resources I read over are the things I needed when I first attempted Computer Science in college when I was there. I understand the problem solving process through tackling one subproblem at a time to conquer the main problem I am solving.
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-understanding-errors)
+(https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
+(https://www.youtube.com/watch?v=azcrPFhaY9k)
+(https://www.builtin.com/data-science/pseudocode)
