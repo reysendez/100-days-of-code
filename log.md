@@ -218,3 +218,24 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 (https://www.youtube.com/watch?v=azcrPFhaY9k)
 (https://www.builtin.com/data-science/pseudocode)
+
+### Day 21: April 3rd,2024
+
+**Today's Progress**: Started Rock, Papers, Scissor game project on TOP.
+
+**Thoughts**: It was easy to start writing if/else statements for the CPU player but once I started to get to writing a loop for a 5-round game, that's when things fell apart. I'm going to come back to this project tomorrow with fresh eyes.
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-rock-paper-scissors
+
+### Day 22: April 4th,2024
+
+**Today's Progress**: Completed Rock, Papers, Scissor game project on TOP with Javascript.
+
+**Thoughts**: Made the do/while loop to solve my issue of being a 5 round game as well as keeping track of the score for all 5 rounds and giving a different response each round, which let me know it worked as intended!
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+(https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
+(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+
