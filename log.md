@@ -239,3 +239,16 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
 (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
+Day 23: April 8th,2024
+
+**Today's Progress**: Completed Clean Code and Installing Node.js modules on TOP.
+
+**Thoughts**: Did mostly reading today about best coding practices, which was a nice change of pace. I managed to install Node.js into my terminal which means I can use it to compile any JavaScript code I input in bash.
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-clean-code)
+(https://www.theodinproject.com/lessons/foundations-installing-node-js)
+(https://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/)
+(https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
+(https://blog.codinghorror.com/coding-without-comments/)
+
