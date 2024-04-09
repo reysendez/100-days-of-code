@@ -252,3 +252,17 @@ Day 23: April 8th,2024
 (https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
 (https://blog.codinghorror.com/coding-without-comments/)
 
+Day 23: April 9th,2024
+
+**Today's Progress**: Completed Learn Intermediate CSS by Building a Cat Painting on freeCodeCamp, started reading Arrays and Loops module on TOP.
+
+**Thoughts**: Learned quite a bit about more properties on CSS, what they do and how to use them. I now understand the position property a bit more, I never understood absolute and relative positioning in the past and what they did. I'm also going through the reading for Arrays and Loops, still got a ways to go. I'll probably finish this by tomorrow.
+
+**Link(s) to work**: 
+(https://www.theodinproject.com/lessons/foundations-clean-code)
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-cat-painting/)
+(https://www.w3schools.com/js/js_array_methods.asp)
+(https://www.w3schools.com/js/js_arrays.asp)
+(https://www.youtube.com/watch?v=7W4pQQ20nJg)
+
+
