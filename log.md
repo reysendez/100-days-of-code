@@ -265,4 +265,16 @@ Day 23: April 9th,2024
 (https://www.w3schools.com/js/js_arrays.asp)
 (https://www.youtube.com/watch?v=7W4pQQ20nJg)
 
+Day 24: April 10th,2024
+
+**Today's Progress**: Completed Learn Responsive Web Design by Building a Piano on freeCodeCamp and completed reading from Arrays and Loops module on TOP.
+
+**Thoughts**: Media queries were easier than I thought they were when I finished that little project on freeCodeCamp, I just need to add additional code when I do write them. It'll take practice but I'm sure that I will eventually get it. As for Arrays and Loops, I did all the required reading, I will do the exercises tomorrow after my morning routine.
+
+**Link(s) to work**: 
+(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+(https://www.theodinproject.com/lessons/foundations-arrays-and-loops)
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano/)
+(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+(https://javascript.info/while-for)
 
