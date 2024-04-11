@@ -278,3 +278,12 @@ Day 24: April 10th,2024
 (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 (https://javascript.info/while-for)
 
+Day 25: April 11th,2024
+
+**Today's Progress**: Completed Technical Documentation Page project on freeCodeCamp and finished the first exercise of the Arrays and Loops assignment on TOP.
+
+**Thoughts**: I'm upset that I had a single typo affecting my ability to pass the damn tests today for the project, ugh. Also, I'm going to have to take a break from TOP because I need more reading into Arrays and Loops before I go any further with the exercises and course.
+
+**Link(s) to work**: 
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page)
+(https://www.theodinproject.com/lessons/foundations-arrays-and-loops)
