@@ -287,3 +287,14 @@ Day 25: April 11th,2024
 **Link(s) to work**: 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page)
 (https://www.theodinproject.com/lessons/foundations-arrays-and-loops)
+
+Day 26: April 12th,2024
+
+**Today's Progress**: Completed first 2 exercises of the Arrays and Loops assignment and started Learn CSS Variables by Building a City Skyline project on freeCodeCamp.
+
+**Thoughts**: As of right now, I'm pretty stuck on The Odin Project and would need to look elsewhere for further instruction on JavaScript. I'll try taking a more in-depth course on Codecademy for JavaScript to fill in some of the knowledge gaps I'm having. In the meantime, let me focus on freeCodeCamp so I can get the Responsive Web Design certification.
+
+**Link(s) to work**: 
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/)
+(https://www.theodinproject.com/lessons/foundations-arrays-and-loops)
+
