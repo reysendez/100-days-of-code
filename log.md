@@ -298,3 +298,20 @@ Day 26: April 12th,2024
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/)
 (https://www.theodinproject.com/lessons/foundations-arrays-and-loops)
 
+
+Day 27: April 13th,2024
+
+**Today's Progress**: Completed Learn CSS Variables by Building a City Skyline project on freeCodeCamp.
+
+**Thoughts**: Variables seem simple enough, especially when it's mostly used for colors. I will focus on finishing Responsive Web Design and do the Codecademy course for JavaScript so I can resume doing The Odin Project.
+**Link(s) to work**: 
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/)
+
+Day 28: April 14th,2024
+
+**Today's Progress**: Completed Learn CSS Variables by Building a City Skyline project on freeCodeCamp.
+
+**Thoughts**: CSS Grid seems a little more complex than Flexbox, I'll have to do some more reading on what grid-template-columns are. I understood what align-items, justify-content and gap elements were but I need a little more understanding.
+**Link(s) to work**: 
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/)
+
