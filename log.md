@@ -315,3 +315,20 @@ Day 28: April 14th,2024
 **Link(s) to work**: 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/)
 
+Day 29: April 15th,2024
+
+**Today's Progress**: Started Product Landing Page project on freeCodeCamp.
+
+**Thoughts**:  Built out the HTML structure of this page and most of the CSS styling. I'm struggling with the layout of the Pricing and Footer elements, I shall work on that and the media queries tomorrow.
+**Link(s) to work**: 
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page)
+
+Day 30: April 16th,2024
+
+**Today's Progress**: Finished Product Landing Page project and Learn CSS Animation by Building a Ferris Wheel module on freeCodeCamp.
+
+**Thoughts**:  Finished out the Product Landing Page, I used the Fender guitar brand for my project. I got it to mostly work right, I do have to get some more practice on media queries though so the website looks good at any resolution. I learned some CSS Animations, which wasn't difficult at all in comparison. I'm a module and a final certification project away from getting the Responsive Web Design certification, which is exciting!
+**Link(s) to work**: 
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page)
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel/)
+
