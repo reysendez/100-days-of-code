@@ -332,3 +332,19 @@ Day 30: April 16th,2024
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page)
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel/)
 
+Day 31: April 17th,2024
+
+**Today's Progress**: Worked Learn CSS Transforms by Building a Penguin module on freeCodeCamp.
+
+**Thoughts**:  This project is the last one I have to do before I do my final certification project for the Responsive Web Design. I'm excited yet nervous to do the Javascript certification.
+
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/)
+
+Day 32: April 18th,2024
+
+**Today's Progress**: Finished Learn CSS Transforms by Building a Penguin module on freeCodeCamp.
+
+**Thoughts**:  This was a little hard to finish as I felt the the module didn't teach much in terms of CSS transform properties but probably because I was rushing through it so I can do the final project. I will work on that project tomorrow.
+**Link(s) to work**: 
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/)
+
