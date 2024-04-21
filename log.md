@@ -239,7 +239,7 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 (https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
 (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
-Day 23: April 8th,2024
+### Day 23: April 8th,2024
 
 **Today's Progress**: Completed Clean Code and Installing Node.js modules on TOP.
 
@@ -252,7 +252,7 @@ Day 23: April 8th,2024
 (https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
 (https://blog.codinghorror.com/coding-without-comments/)
 
-Day 23: April 9th,2024
+### Day 24: April 9th,2024
 
 **Today's Progress**: Completed Learn Intermediate CSS by Building a Cat Painting on freeCodeCamp, started reading Arrays and Loops module on TOP.
 
@@ -265,7 +265,7 @@ Day 23: April 9th,2024
 (https://www.w3schools.com/js/js_arrays.asp)
 (https://www.youtube.com/watch?v=7W4pQQ20nJg)
 
-Day 24: April 10th,2024
+### Day 25: April 10th,2024
 
 **Today's Progress**: Completed Learn Responsive Web Design by Building a Piano on freeCodeCamp and completed reading from Arrays and Loops module on TOP.
 
@@ -278,7 +278,7 @@ Day 24: April 10th,2024
 (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 (https://javascript.info/while-for)
 
-Day 25: April 11th,2024
+### Day 26: April 11th,2024
 
 **Today's Progress**: Completed Technical Documentation Page project on freeCodeCamp and finished the first exercise of the Arrays and Loops assignment on TOP.
 
@@ -288,7 +288,7 @@ Day 25: April 11th,2024
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page)
 (https://www.theodinproject.com/lessons/foundations-arrays-and-loops)
 
-Day 26: April 12th,2024
+### Day 27: April 12th,2024
 
 **Today's Progress**: Completed first 2 exercises of the Arrays and Loops assignment and started Learn CSS Variables by Building a City Skyline project on freeCodeCamp.
 
@@ -299,7 +299,7 @@ Day 26: April 12th,2024
 (https://www.theodinproject.com/lessons/foundations-arrays-and-loops)
 
 
-Day 27: April 13th,2024
+### Day 28: April 13th,2024
 
 **Today's Progress**: Completed Learn CSS Variables by Building a City Skyline project on freeCodeCamp.
 
@@ -307,7 +307,7 @@ Day 27: April 13th,2024
 **Link(s) to work**: 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/)
 
-Day 28: April 14th,2024
+### Day 29: April 14th,2024
 
 **Today's Progress**: Completed Learn CSS Variables by Building a City Skyline project on freeCodeCamp.
 
@@ -315,7 +315,7 @@ Day 28: April 14th,2024
 **Link(s) to work**: 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/)
 
-Day 29: April 15th,2024
+### Day 30: April 15th,2024
 
 **Today's Progress**: Started Product Landing Page project on freeCodeCamp.
 
@@ -332,7 +332,7 @@ Day 30: April 16th,2024
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page)
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel/)
 
-Day 31: April 17th,2024
+### Day 32: April 17th,2024
 
 **Today's Progress**: Worked Learn CSS Transforms by Building a Penguin module on freeCodeCamp.
 
@@ -341,7 +341,7 @@ Day 31: April 17th,2024
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/)
 
 
-Day 32: April 18th,2024
+### Day 33: April 18th,2024
 
 **Today's Progress**: Finished Learn CSS Transforms by Building a Penguin module on freeCodeCamp.
 
@@ -349,7 +349,7 @@ Day 32: April 18th,2024
 **Link(s) to work**: 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/)
 
-Day 33: April 19th,2024
+### Day 334: April 19th,2024
 
 **Today's Progress**: Started Learn HTML course on Codecademy, finished Introduction: Fundamentals of HTML and Learn HTML: Elements.
 
@@ -357,7 +357,7 @@ Day 33: April 19th,2024
 **Link(s) to work**: 
 (https://www.codecademy.com/courses/learn-html/lessons/intro-to-html)
 
-Day 34: April 20th,2024
+### Day 35: April 20th,2024
 
 **Today's Progress**: Completed Learn HTML: Structure,Learn HTML: Tables and Semantic HTML.
 
@@ -365,7 +365,7 @@ Day 34: April 20th,2024
 **Link(s) to work**: 
 (https://www.codecademy.com/courses/learn-html/lessons/intro-to-html)
 
-Day 35: April 21th,2024
+### Day 36: April 21th,2024
 
 **Today's Progress**: Started Full-Stack Engineer Path on Codecademy..
 
