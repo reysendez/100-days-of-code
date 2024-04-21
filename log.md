@@ -340,6 +340,7 @@ Day 31: April 17th,2024
 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/)
 
+
 Day 32: April 18th,2024
 
 **Today's Progress**: Finished Learn CSS Transforms by Building a Penguin module on freeCodeCamp.
@@ -347,4 +348,28 @@ Day 32: April 18th,2024
 **Thoughts**:  This was a little hard to finish as I felt the the module didn't teach much in terms of CSS transform properties but probably because I was rushing through it so I can do the final project. I will work on that project tomorrow.
 **Link(s) to work**: 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/)
+
+Day 33: April 19th,2024
+
+**Today's Progress**: Started Learn HTML course on Codecademy, finished Introduction: Fundamentals of HTML and Learn HTML: Elements.
+
+**Thoughts**:  Decided to pivot to using Codecademy to refresh HTML, CSS and then dig deeper into JavaScript before going back to The Odin Project.
+**Link(s) to work**: 
+(https://www.codecademy.com/courses/learn-html/lessons/intro-to-html)
+
+Day 34: April 20th,2024
+
+**Today's Progress**: Completed Learn HTML: Structure,Learn HTML: Tables and Semantic HTML.
+
+**Thoughts**: This was very simple for me to do, I feel like The Odin Project didn't teach much in the way of tables and Semantic HTML.
+**Link(s) to work**: 
+(https://www.codecademy.com/courses/learn-html/lessons/intro-to-html)
+
+Day 35: April 21th,2024
+
+**Today's Progress**: Started Full-Stack Engineer Path on Codecademy..
+
+**Thoughts**: After finishing the Learn HTML mini-course, I decided to dive into the Full-Stack Engineer Path and work my way through it. It'll help me reinforce concepts of HTML and CSS and fill in some gaps during my downtime at work.
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
 
