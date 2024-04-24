@@ -304,6 +304,7 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 **Today's Progress**: Completed Learn CSS Variables by Building a City Skyline project on freeCodeCamp.
 
 **Thoughts**: Variables seem simple enough, especially when it's mostly used for colors. I will focus on finishing Responsive Web Design and do the Codecademy course for JavaScript so I can resume doing The Odin Project.
+
 **Link(s) to work**: 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/)
 
@@ -312,6 +313,7 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 **Today's Progress**: Completed Learn CSS Variables by Building a City Skyline project on freeCodeCamp.
 
 **Thoughts**: CSS Grid seems a little more complex than Flexbox, I'll have to do some more reading on what grid-template-columns are. I understood what align-items, justify-content and gap elements were but I need a little more understanding.
+
 **Link(s) to work**: 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/)
 
@@ -320,14 +322,16 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 **Today's Progress**: Started Product Landing Page project on freeCodeCamp.
 
 **Thoughts**:  Built out the HTML structure of this page and most of the CSS styling. I'm struggling with the layout of the Pricing and Footer elements, I shall work on that and the media queries tomorrow.
+
 **Link(s) to work**: 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page)
 
-Day 30: April 16th,2024
+### Day 30: April 16th,2024
 
 **Today's Progress**: Finished Product Landing Page project and Learn CSS Animation by Building a Ferris Wheel module on freeCodeCamp.
 
 **Thoughts**:  Finished out the Product Landing Page, I used the Fender guitar brand for my project. I got it to mostly work right, I do have to get some more practice on media queries though so the website looks good at any resolution. I learned some CSS Animations, which wasn't difficult at all in comparison. I'm a module and a final certification project away from getting the Responsive Web Design certification, which is exciting!
+
 **Link(s) to work**: 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page)
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel/)
@@ -346,6 +350,7 @@ Day 30: April 16th,2024
 **Today's Progress**: Finished Learn CSS Transforms by Building a Penguin module on freeCodeCamp.
 
 **Thoughts**:  This was a little hard to finish as I felt the the module didn't teach much in terms of CSS transform properties but probably because I was rushing through it so I can do the final project. I will work on that project tomorrow.
+
 **Link(s) to work**: 
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/)
 
@@ -354,6 +359,7 @@ Day 30: April 16th,2024
 **Today's Progress**: Started Learn HTML course on Codecademy, finished Introduction: Fundamentals of HTML and Learn HTML: Elements.
 
 **Thoughts**:  Decided to pivot to using Codecademy to refresh HTML, CSS and then dig deeper into JavaScript before going back to The Odin Project.
+
 **Link(s) to work**: 
 (https://www.codecademy.com/courses/learn-html/lessons/intro-to-html)
 
@@ -362,6 +368,7 @@ Day 30: April 16th,2024
 **Today's Progress**: Completed Learn HTML: Structure,Learn HTML: Tables and Semantic HTML.
 
 **Thoughts**: This was very simple for me to do, I feel like The Odin Project didn't teach much in the way of tables and Semantic HTML.
+
 **Link(s) to work**: 
 (https://www.codecademy.com/courses/learn-html/lessons/intro-to-html)
 
@@ -370,6 +377,34 @@ Day 30: April 16th,2024
 **Today's Progress**: Started Full-Stack Engineer Path on Codecademy..
 
 **Thoughts**: After finishing the Learn HTML mini-course, I decided to dive into the Full-Stack Engineer Path and work my way through it. It'll help me reinforce concepts of HTML and CSS and fill in some gaps during my downtime at work.
+
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 37: April 22nd,2024
+
+**Today's Progress**: Started Fundamentals of CSS module of the Full-Stack Engineer Path.
+
+**Thoughts**: Most of this is a refresher for me, which has been nice.
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 38: April 23rd,2024
+
+**Today's Progress**: Started Personal Portfolio Page Certification Project on freeCodeCamp and continued fundamentals of CSS module of the Full-Stack Engineer Path.
+
+**Thoughts**: Most of this is a refresher for me, which has been nice.
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
+
+### Day 38: April 23rd,2024
+
+**Today's Progress**: Finished Personal Portfolio Page Certification Project on freeCodeCamp, completed Responsive Web Design certification and started JavaScript Algorithms and Data Structures curriculum.
+
+**Thoughts**: Most of this is a refresher for me, which has been nice.
+**Link(s) to work**: 
+(hhttps://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
+
+
 
