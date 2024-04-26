@@ -386,6 +386,7 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 **Today's Progress**: Started Fundamentals of CSS module of the Full-Stack Engineer Path.
 
 **Thoughts**: Most of this is a refresher for me, which has been nice.
+
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
 
@@ -394,17 +395,30 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 **Today's Progress**: Started Personal Portfolio Page Certification Project on freeCodeCamp and continued fundamentals of CSS module of the Full-Stack Engineer Path.
 
 **Thoughts**: Most of this is a refresher for me, which has been nice.
+
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
 (https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
 
-### Day 38: April 23rd,2024
+### Day 39: April 24th,2024
 
 **Today's Progress**: Finished Personal Portfolio Page Certification Project on freeCodeCamp, completed Responsive Web Design certification and started JavaScript Algorithms and Data Structures curriculum.
 
-**Thoughts**: Most of this is a refresher for me, which has been nice.
+**Thoughts**: Really excited to finish this certification, now off to JavaScript curriculum.
+
 **Link(s) to work**: 
-(hhttps://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
+(hhttps://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-introductory-javascript-by-building-a-pyramid-generator/step-1)
+
+### Day 40: April 25th,2024
+
+**Today's Progress**: Finished Learn Introductory JavaScript by Building a Pyramid Generator module on freeCodeCamp.
+
+**Thoughts**: This was a better resource to learn basic JavaScript than The Odin Project but I feel like I don't understand creating loops much better yet. We shall continue the curriculum and see what happens.
+
+**Link(s) to work**: 
+(https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
+(hhttps://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-introductory-javascript-by-building-a-pyramid-generator/step-1)
 
 
 
