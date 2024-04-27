@@ -417,8 +417,25 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 **Thoughts**: This was a better resource to learn basic JavaScript than The Odin Project but I feel like I don't understand creating loops much better yet. We shall continue the curriculum and see what happens.
 
 **Link(s) to work**: 
-(https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
 (hhttps://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-introductory-javascript-by-building-a-pyramid-generator/step-1)
 
 
+### Day 41: April 26th,2024
 
+**Today's Progress**: Worked on Fundamentals of CSS on Codecademy.
+
+**Thoughts**: This has explained position, margin, padding and overflow properties much better than the Odin Project. Thank goodness for that!
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+
+### Day 43: April 27th,2024
+
+**Today's Progress**: Finished Lean Basic JavaScript by Building a Role Playing Game on freeCodeCamp and Fundamentals of CSS on Codeacademy.
+
+**Thoughts**: This project really helped me understand the JavaScript basics a little better, though I will probably never make something like this on my own at this time. 
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+(https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-basic-javascript-by-building-a-role-playing-game/step-1)
