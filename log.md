@@ -439,3 +439,13 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
 (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-basic-javascript-by-building-a-role-playing-game/step-1)
+
+
+### Day 44: April 28th,2024
+
+**Today's Progress**: Completed Deploying Websites Locally module on Codecademy.
+
+**Thoughts**: Thanks to my Foundations work on The Odin Project, I was able to get past the Dasmoto's Arts & Crafts project on Codecademy. I remember getting up there and just quitting because I had no knowledge of the command line and how to make a file tree of a project. While I am currently stuck on the JavaScript basics on The Odin Project, I'm sure I'll be able to tackle it with ease once I get through more in-depth resources and practice.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
