@@ -449,3 +449,66 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 45: April 29th,2024
+
+**Today's Progress**: Finished Deploying Websites module on Codecademy.
+
+**Thoughts**: This was mostly working on Github Pages and deepening my understanding of the command line, which I already learned previously on The Odin Project. Reinforcing what I already know is never a bad thing!
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 46: April 30th,2024
+
+**Today's Progress**: Started Improved Styling with CSS module, finishing Learn CSS: Colors and Learn CSS: Typography.
+
+**Thoughts**: This was pretty simple stuff but again, reinforcing what I learn is never bad.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 47: May 1st,2024
+
+**Today's Progress**: Finished Challenge Project: Build Your Own Cheat Sheet and Learn Links and Buttons sections.
+
+**Thoughts**: None of this was difficult as I learned most of it before. 
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 48: May 2nd,2024
+
+**Today's Progress**: Completed Learn Secondary Navigation and Wireframing sections and finished the Improved Styling with CSS module.
+
+**Thoughts**: The breadcrumbing was very new to me as I never learned how to set that up through The Odin Project but good to know for blogs and e-commerce.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 49: May 3rd,2024
+
+**Today's Progress**: Started Making a Website Responsive module, completed Introduction: Responsive Design and Responsive Design: Grids and Spacing sections.
+
+**Thoughts**: Never heard of the Grids and spacing terminology, it really hits home how to make a website compatible with tablets and phones.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 50: May 4th,2024
+
+**Today's Progress**: Completed CSS Flexbox section and started Tea Cozy project and Learn Javascript course.
+
+**Thoughts**: Tea Cozy project confused me a little bit with the resolution but I had to modify some of the design specs to make this fit within my screen.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 51: May 5th,2024
+
+**Today's Progress**: Completed Tea Cozy project and Introduction to Javascript section.
+
+**Thoughts**: The Tea Cozy project finally looks stellar though I didn't follow the exact specs because the text would have been past the screen.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
