@@ -512,3 +512,22 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
+
+
+### Day 52: May 6th,2024
+
+**Today's Progress**: Started CSS Grid module, got through halfway CSS Grid Essentials.
+
+**Thoughts**: This CSS Grid concept is much more complex than Flexbox but I definitely need to practice this more.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 53: May 7th,2024
+
+**Today's Progress**: Finished CSS Grid module on Codecademy.
+
+**Thoughts**: Had some project with the projects, I will not likely use all the syntax that I've learned in here for my websites but we shall see.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
