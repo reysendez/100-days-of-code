@@ -531,3 +531,11 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 54: May 8th,2024
+
+**Today's Progress**: Finished Sizing Elements section on Codecademy.
+
+**Thoughts**: This explained the concepts of em and rem so much more in detail than I ever learned on freeCodeCamp, The Odin Project didn't even talk about this!
+
+(https://www.codecademy.com/career-journey/full-stack-engineer)
