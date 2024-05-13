@@ -538,4 +538,23 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 **Thoughts**: This explained the concepts of em and rem so much more in detail than I ever learned on freeCodeCamp, The Odin Project didn't even talk about this!
 
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 55: May 9th,2024
+
+**Today's Progress**: Completed Learn Responsive Design module on Codecademy and started Javascript Part 1 module. 
+
+**Thoughts**: I understood media queries so much better through Codecademy and I feel I'll have a better grasp of JavaScript through the syntax practice and practice projects.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 56: May 13th,2024
+
+**Today's Progress**: Completed Making a Website Responsive section, finishing Web Development Foundations and worked on functions in Javascript Part 1.
+
+**Thoughts**: After spending the weekend with my partner, I took a much needed break away and came back with fresh eyes. The projects after learning about switch statements and functions really made it stick in my head. 
+
+**Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
