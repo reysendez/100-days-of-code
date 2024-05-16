@@ -552,9 +552,36 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 ### Day 56: May 13th,2024
 
-**Today's Progress**: Completed Making a Website Responsive section, finishing Web Development Foundations and worked on functions in Javascript Part 1.
+**Today's Progress**: Completed Making a Website Responsive section, finishing Web Development Foundations and worked on functions in Javascript Syntax Part 1.
 
 **Thoughts**: After spending the weekend with my partner, I took a much needed break away and came back with fresh eyes. The projects after learning about switch statements and functions really made it stick in my head. 
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 57: May 14th,2024
+
+**Today's Progress**: Worked on JavaScript Syntax, Part 1 sections on functions, conditionals, scope and the two practice projects.
+
+**Thoughts**: Been working through the syntax sections of functions, conditionals and debugging. It's a nice refresher and I feel like it's getting easier now.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 58: May 15th,2024
+
+**Today's Progress**: Worked on the Practice module for JavaScript Syntax, Part 1.
+
+**Thoughts**: I remember that doing these exercises were so hard for me years ago but doing them now has been much easier for me as the information is starting to stick in my head as I work through the problems.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 58: May 16th,2024
+
+**Today's Progress**: Completed JavaScript Syntax, Part 1 module and worked on Arrays section in the JavaScript course on Codecademy.
+
+**Thoughts**: I remember that doing these exercises were so hard for me years ago but doing them now has been much easier for me as the information is starting to stick in my head as I work through the problems.
 
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
