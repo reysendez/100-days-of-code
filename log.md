@@ -577,11 +577,38 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
 
-### Day 58: May 16th,2024
+### Day 59: May 16th,2024
 
 **Today's Progress**: Completed JavaScript Syntax, Part 1 module and worked on Arrays section in the JavaScript course on Codecademy.
 
 **Thoughts**: I remember that doing these exercises were so hard for me years ago but doing them now has been much easier for me as the information is starting to stick in my head as I work through the problems.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 60: May 17th,2024
+
+**Today's Progress**: Started Objects section of the Learn JavaScript course.
+
+**Thoughts**: Was a little busy at work so I didn't have much time to progress as I would like.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 61: May 18th,2024
+
+**Today's Progress**: Worked and finished the Objects section of the Learn JavaScript course on Codecademy.
+
+**Thoughts**: Object literals seemed simple enough and how to create key-value pairs.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 62: May 19th,2024
+
+**Today's Progress**: Completed Learn JavaScript course on Codecademy, finishing the Advanced Objects projects and quiz.
+
+**Thoughts**: These were a little harder than I thought, the syntax and use of this._ and when to use it tripped me up a lot.
 
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
