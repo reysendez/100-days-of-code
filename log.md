@@ -612,3 +612,21 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 63: May 20th,2024
+
+**Today's Progress**: Completed Thinking About Your Code Differently section.
+
+**Thoughts**: I love supplemental material when it comes to reading and understanding error codes.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 64: May 21st,2024
+
+**Today's Progress**: Started Debugging JavaScript Code section.
+
+**Thoughts**: Being able to read and understand errors in my code in order to fix mistakes is a vital skill that I need to get better at. 
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
