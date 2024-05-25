@@ -630,3 +630,21 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 65: May 22nd, 2024
+
+**Today's Progress**: Completed Debugging JavaScript Code section.
+
+**Thoughts**: The little errors I had to fix didn't seem so difficult.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 66: May 25th, 2024
+
+**Today's Progress**: Started the JavaScript Code Challenges: Intermediate Javascript section.
+
+**Thoughts**: Been struggling a bit with the array methods and logic, especially as the logic gets more and more complex. I should review the JavaScript section more but I think I'll go back to freeCodeCamp and The Odin Project for a bit and take a break on this.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
