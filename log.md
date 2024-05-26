@@ -648,3 +648,12 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 67: May 26th, 2024
+
+**Today's Progress**: Completed JavaScript Code Challenges: Intermediate Javascript section.
+
+**Thoughts**:  The last 2 code challenges in this section really threw me for a loop, so much so that I turned to ChatGPT for help. I definitely need more JavaScript practice so let me get freeCodeCamp a try.
+
+**Link(s) to work**: 
+(https://www.codecademy.com/career-journey/full-stack-engineer)
