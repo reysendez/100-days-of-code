@@ -657,3 +657,13 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 **Link(s) to work**: 
 (https://www.codecademy.com/career-journey/full-stack-engineer)
+
+### Day 68: May 27th, 2024
+
+**Today's Progress**: Completed JavaScript Fundamentals by Building a Gradebook App module and did some coding challenges on Edabit.
+
+**Thoughts**:  The Edabit challenges were really fun and the module made it easier to remind myself of things I recently learned.
+
+**Link(s) to work**: 
+(https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/review-js-fundamentals-by-building-a-gradebook-app/step-1)
+(https://edabit.com/)
